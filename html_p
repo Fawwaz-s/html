@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Ori_dowo">
+        <meta name="decription" content="This is the place where we write all the shinenigans in HTML">
+        <title>Valar_Moghulis</title>
+        <link rel="icon" href="sit.jpg" type="image/fawwaz">
+    </head>
+
+    <body>
+        <h1>Here we go again</h1>
+        <hr>
+        <p>This is it</p>
+
+        <h2>I should be able to finish 1 and the half hours today</h2>
+        <p>This is it
+            <br> I'm testing the space
+            <br> we shall see if it works
+        </p>
+        <hr>
+        <h2>Forensics</h2>
+        <p> talk to me <em>softly please</em>
+        <address>234 Marcel Dassualt,
+            <br>Ereko, Idumota.
+            <br>Pluto
+        </address>
+        </p>
+        <h3>I am going</h3>
+        <p>I will list the things I do every morning</p>
+        <ol>
+            <li>Pray</li>
+            <li>Brush my teeth</li>
+            <li>Bath</li>
+            <li>Eat my breakfast of champions</li>
+            <li>Go and Suceed</li>
+        </ol>
+    <p>Random places in my head</p>
+    <ul>
+        <li>Jacksonville</li>
+        <li>Kabul</li>
+        <li>Kilimani</li>
+    </ul>
+    <p>
+        This is to tell you where <abbr title="Abbracadabra"><a href="https://hdtoday.so/home">abb</a>
+            </abbr> from
+        this is a <a href="https://invisible.co/join-us/#Explore_Our_Opportunities">link</a>
+    </p>
+    <hr>
+    &lt;&lt;&lt;&copy;<a href="aboutp.html">Fawwaz Salami</a>&gt;&gt;&gt;
+    </body>
+</html>
